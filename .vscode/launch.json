@@ -1,0 +1,342 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "FindMissingRanges",
+      "request": "launch",
+      "mainClass": "FindMissingRanges",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "BitManipulation",
+      "request": "launch",
+      "mainClass": "BitManipulation",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearchTree",
+      "request": "launch",
+      "mainClass": "dsa.BinarySearchTree",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "SubtreeExample",
+      "request": "launch",
+      "mainClass": "dsa.SubtreeExample",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "BinayTreesExample",
+      "request": "launch",
+      "mainClass": "dsa.BinayTreesExample",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "FactoryImplementation",
+      "request": "launch",
+      "mainClass": "factorypattern.FactoryImplementation",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "FactorialUsingRecursion",
+      "request": "launch",
+      "mainClass": "FactorialUsingRecursion",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "PrintNumbersUsingRecursion",
+      "request": "launch",
+      "mainClass": "PrintNumbersUsingRecursion",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "DependencyInversionPrinciple",
+      "request": "launch",
+      "mainClass": "solid.DependencyInversionPrinciple",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceSegragationPrinciple1",
+      "request": "launch",
+      "mainClass": "solid.InterfaceSegragationPrinciple1",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "InterfaceSegragationPrinciple",
+      "request": "launch",
+      "mainClass": "solid.InterfaceSegragationPrinciple",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "LiskovSubstitutionPrinciple",
+      "request": "launch",
+      "mainClass": "solid.LiskovSubstitutionPrinciple",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "OpenClosedPrinciple",
+      "request": "launch",
+      "mainClass": "solid.OpenClosedPrinciple",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "Oops",
+      "request": "launch",
+      "mainClass": "oops.Oops",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HashMapImplementation",
+      "request": "launch",
+      "mainClass": "dsa.HashMapImplementation",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "InvertedHalfPyramidNumber",
+      "request": "launch",
+      "mainClass": "InvertedHalfPyramidNumber",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HalfPyramidNumber",
+      "request": "launch",
+      "mainClass": "HalfPyramidNumber",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "PascalsTriangle",
+      "request": "launch",
+      "mainClass": "PascalsTriangle",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HollowRhombus",
+      "request": "launch",
+      "mainClass": "HollowRhombus",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "ConcentricNumber",
+      "request": "launch",
+      "mainClass": "ConcentricNumber",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HollowButterfly",
+      "request": "launch",
+      "mainClass": "HollowButterfly",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "Diamond",
+      "request": "launch",
+      "mainClass": "Diamond",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Palindrome",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "NumberPyramid",
+      "request": "launch",
+      "mainClass": "NumberPyramid",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "Butterfly",
+      "request": "launch",
+      "mainClass": "Butterfly",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "SolidRhombus",
+      "request": "launch",
+      "mainClass": "SolidRhombus",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "Triangle_0_1",
+      "request": "launch",
+      "mainClass": "Triangle_0_1",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "FlyodsTriangle",
+      "request": "launch",
+      "mainClass": "FlyodsTriangle",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "InvertedHalfPyramidWithNumber",
+      "request": "launch",
+      "mainClass": "InvertedHalfPyramidWithNumber",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HalfPyramidWithNumber",
+      "request": "launch",
+      "mainClass": "HalfPyramidWithNumber",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "InvertedHaflPyramid2",
+      "request": "launch",
+      "mainClass": "InvertedHaflPyramid2",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "InvertedHaflPyramid12",
+      "request": "launch",
+      "mainClass": "InvertedHaflPyramid12",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "InvertedHaflPyramid",
+      "request": "launch",
+      "mainClass": "InvertedHaflPyramid",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "InvertedHaflPyramid1",
+      "request": "launch",
+      "mainClass": "InvertedHaflPyramid1",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HaflPyramid",
+      "request": "launch",
+      "mainClass": "HaflPyramid",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HollowRectangle",
+      "request": "launch",
+      "mainClass": "HollowRectangle",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HolloRectangle",
+      "request": "launch",
+      "mainClass": "HolloRectangle",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "Rectangle",
+      "request": "launch",
+      "mainClass": "Rectangle",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "LinkedListImplementation",
+      "request": "launch",
+      "mainClass": "LinkedListImplementation",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HashMapImplementation1",
+      "request": "launch",
+      "mainClass": "HashMapImplementation1",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HashMapImplementation",
+      "request": "launch",
+      "mainClass": "HashMapImplementation",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HashMapImplementaion",
+      "request": "launch",
+      "mainClass": "HashMapImplementaion",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "HashMapCode",
+      "request": "launch",
+      "mainClass": "HashMapCode",
+      "projectName": "JavaProjects_de377140"
+    },
+    {
+      "type": "java",
+      "name": "Launch Hello (no args)",
+      "request": "launch",
+      "mainClass": "Hello",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "Launch Hello (with sample args)",
+      "request": "launch",
+      "mainClass": "Hello",
+      "args": "7 \"hello world\""
+    },
+    {
+      "type": "java",
+      "name": "Launch Hello (with sample args)",
+      "request": "launch",
+      "mainClass": "Hello",
+      "args": "7"
+    },
+    {
+      "type": "java",
+      "name": "Launch Hello (factorial 5)",
+      "request": "launch",
+      "mainClass": "Hello",
+      "args": "5"
+    }
+  ]
+}
+
